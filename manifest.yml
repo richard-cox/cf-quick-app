@@ -1,6 +1,6 @@
 applications:
   - name: cf-quick-app-rc
     memory: 16M
-    disk_quota: 64M
+    disk_quota: 32M
     timeout: 180
     health-check-type: process
