@@ -4,3 +4,4 @@ applications:
     disk_quota: 32M
     timeout: 180
     health-check-type: process
+    buildpack: binary_buildpack
