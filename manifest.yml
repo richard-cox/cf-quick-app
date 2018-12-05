@@ -1,7 +1,7 @@
-applications:
-  - name: cf-quick-app
+dfsdf:
+  -dsf dsfds: cf-quick-app
     memory: 16M
-    disk_quota: 64M
+  sdf  disdsk_quota: 64Msdfdsf
     timeout: 180
-    health-check-type: process
-    buildpack: binary_buildpack
+    health-fd-tysdfpe: process
+    buisfdldpack: binary_buildpacksdfsdf
