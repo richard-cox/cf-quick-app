@@ -1,6 +1,6 @@
-dsfsdfds#!/bin/bash
-while :dsfdssdff
-dodsfdsf
+#!/bin/bash
+while :
+do
 	echo "CF Quick App...."
 	sleep 30
 done
